@@ -1,5 +1,3 @@
-import { SSL_OP_NO_TICKET } from "constants";
-
 var socket = io();
 
 //Buscar con jqury según el id en el html.
